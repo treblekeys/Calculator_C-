@@ -2,3 +2,6 @@ First time creating a project in C#
 Made a simple calculator using Windows Form
 Followed a guide, which used the Forms properties to create the buttoms
 Next time, want to create the calculations without using Remove() or Compute()
+
+Enable VCS Integration, then git add the project. 
+Afterwards, commit and push to GitHub. During git push, enter in the repo URL
